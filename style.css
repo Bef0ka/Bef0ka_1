@@ -1,0 +1,61 @@
+body {
+    background-color: #f8f8f8;
+}
+
+header {
+    display: flex;
+    font-family: "Century gothic";
+}
+
+footer {
+    text-align: center;
+}
+
+.header-ul {
+    list-style-type: none;
+}
+
+ul.header-ul a:hover {
+	color: goldenrod;
+}
+
+.tovarh1 {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #eaeaea;
+}
+
+.opis {
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+
+.podropis {
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+.list {
+    list-style-image: url(img/mark.png);
+    color: gray;
+    font-weight: 300;
+}
+
+.inp {
+    margin: 10px;
+    width: 250px;
+    color: black;
+    font-family: "Century gothic";
+}
+
+.imgg {
+    border-radius: 1%;
+    border-width: 10px;
+    border-color: black;
+}
